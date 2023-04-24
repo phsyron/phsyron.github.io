@@ -1,0 +1,3 @@
+[submodule "parshle"]
+	path = parshle
+	url = https://github.com/phsyron/parshle-publish.git
