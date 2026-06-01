@@ -1,3 +1,6 @@
 [submodule "parshle"]
 	path = parshle
 	url = https://github.com/phsyron/parshle-publish.git
+[submodule "hanami"]
+	path = hanami
+	url = git@github.com:phsyron/hanami.git
